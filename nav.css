@@ -1,0 +1,48 @@
+#navbarSupportedContent
+{
+    margin-left: 80%;
+    
+}
+.nav-item{
+    margin: 20px;
+
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: rgb(251, 246, 246);
+    font-weight: bold;
+    
+    
+}
+.nav{
+    background-color: blueviolet;
+}
+.container-fluid{
+    background-color: blueviolet;
+    height: 120%;
+   
+}
+
+.navbar-brand,img{
+    width: 70px;
+}
+.card-title{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+    margin-top: 30px;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.liza{
+    background-color: rgb(235, 252, 8);
+    display: flex;
+}
+.m{
+    margin-left: 40%;
+}
